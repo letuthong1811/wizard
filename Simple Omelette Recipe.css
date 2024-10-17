@@ -1,0 +1,47 @@
+
+body {
+    background-color: white;
+}
+
+#subtitle {
+    color: brown;
+}
+
+#brown-list {
+    color:brown;
+}
+
+#Preparation-time {
+    background-color: rosybrown;
+    border-radius: 10px;
+}
+
+#Preparation-time {
+    padding: 5px;
+}
+
+#purple-list {
+    color: rosybrown; 
+}
+
+div {
+    text-align: left; 
+}
+
+p {
+    font-size: 16px;
+}
+
+li {
+    line-height: 2;
+}
+
+body {
+    margin: 20px 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+}
